@@ -1,0 +1,24 @@
+_repo: How-to-Care-for-the-InsaneA-Manual-for-Nurses_37142
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37142-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Granger, William D.
+    gutenberg_agent_id: '38676'
+    url: http://www.gutenberg.org/2009/agents/38676
+description: ''
+gutenberg_issued: '2011-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37142'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychiatric nursing'
+- !lcc 'RC'
+title: 'How to Care for the Insane: A Manual for Nurses'
+url: http://www.gutenberg.org/ebooks/37142
